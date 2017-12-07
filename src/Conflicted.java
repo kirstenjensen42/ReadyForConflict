@@ -16,7 +16,7 @@ public class Conflicted {
 	
 	public String getSadNews() {
 		
-		sadNews = "Something very sad.";
+		sadNews = "I tell you this is very very sad.";
 		
 		return sadNews;
 		
